@@ -1,3 +1,5 @@
-html {
-    overflow-y: scroll;
+@media (min-width: 992px) {
+    html {
+        overflow-y: scroll;
+    }
 }
